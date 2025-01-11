@@ -2,7 +2,7 @@
 	{
 		"name": "Akkad",
 		"leaderName": "Sargon",
-		"adjective": ["alien"],
+		"adjective": ["akkad"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
