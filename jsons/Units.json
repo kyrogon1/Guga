@@ -3,7 +3,6 @@
 		"name": "Axeman",
 		"unitType": "sword",
 		"uniqueTo": "Akkad",
-		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 11,
 		"cost": 500,
