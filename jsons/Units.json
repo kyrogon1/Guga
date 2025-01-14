@@ -8,6 +8,7 @@
 		"strength": 11,
 		"cost": 500,
 		"requiredTech": "Bronze Working",
+		"upgradesTo": "swordsman",
 		"attackSound": "phasers"
 	}
 ]
