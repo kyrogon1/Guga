@@ -1,13 +1,13 @@
 [
 	{
 		"name": "Axeman",
-		"unitType": "sword",
+		"unitType": "Sword",
 		"uniqueTo": "Akkad",
 		"movement": 2,
 		"strength": 11,
 		"cost": 500,
 		"requiredTech": "Bronze Working",
-		"upgradesTo": "swordsman",
+		"upgradesTo": "Swordsman",
 		"attackSound": "phasers"
 	}
 ]
