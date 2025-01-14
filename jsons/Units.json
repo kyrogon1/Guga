@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Axeman",
-		"unitType": "Ranged",
+		"unitType": "sword",
 		"uniqueTo": "Akkad",
 		"replaces": "Machine Gun",
 		"movement": 2,
