@@ -6,7 +6,7 @@
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"cost": 500,
-		"requiredTech": "Ballistics",
+		"requiredTech": "Bronze Working",
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
