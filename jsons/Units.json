@@ -5,10 +5,9 @@
 		"uniqueTo": "Akkad",
 		"replaces": "Machine Gun",
 		"movement": 2,
+		"strength": 11,
 		"cost": 500,
 		"requiredTech": "Bronze Working",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
 ]
