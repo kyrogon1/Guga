@@ -5,7 +5,7 @@
 		"uniqueTo": "Akkad",
 		"movement": 2,
 		"strength": 12,
-		"cost": 500,
+		"cost": 60,
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Swordsman",
 		"uniques": ["[+15]% Strength <when attacking>"],
