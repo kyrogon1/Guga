@@ -8,7 +8,7 @@
 		"cost": 500,
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Swordsman",
-		"uniques": ["[+15]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+15]% Strength <when attacking>"],
 		"attackSound": "phasers"
 	}
 ]
