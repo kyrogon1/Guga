@@ -20,7 +20,7 @@ BuildingIcons/Holodeck
   index: -1
 NationIcons/Akkad
   rotate: false
-  xy: 4, 4
+  xy: 3, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
