@@ -4,7 +4,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "Akkad",
 		"movement": 2,
-		"strength": 11,
+		"strength": 12,
 		"cost": 500,
 		"requiredTech": "Bronze Working",
 		"upgradesTo": "Swordsman",
