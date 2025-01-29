@@ -20,14 +20,14 @@ BuildingIcons/Holodeck
   index: -1
 NationIcons/Akkad
   rotate: false
-  xy: 3, 4
+  xy: 7, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Axeman
   rotate: false
-  xy: 310, 4
+  xy: 360, 4
   size: 90, 90
   orig: 100, 100
   offset: 0, 0
