@@ -27,7 +27,7 @@ NationIcons/Akkad
   index: -1
 UnitIcons/Axeman
   rotate: false
-  xy: 360, 4
+  xy: 370, 7
   size: 90, 90
   orig: 100, 100
   offset: 0, 0
